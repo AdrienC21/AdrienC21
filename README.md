@@ -1,6 +1,4 @@
-## Adrien Carrel 👋
-
-👋🏼 Hey, my name is Adrien!
+<img src="https://github.com/AdrienC21/AdrienC21/blob/master/Adrien%20Carrel.png" alt="hey">
 
 💻 I am currently studying at Imperial College London (MSc Advanced Computing)
 
