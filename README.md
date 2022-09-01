@@ -1,4 +1,4 @@
-<img src="https://github.com/AdrienC21/AdrienC21/blob/master/header.png" alt="hey">
+<img src="https://github.com/AdrienC21/AdrienC21/blob/main/header.png" alt="hey">
 
 💻 I am currently studying at Imperial College London (MSc Advanced Computing)
 
