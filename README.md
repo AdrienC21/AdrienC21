@@ -10,14 +10,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/adrien.carrel/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="39" width="52"/></a>
-<a href="https://www.instagram.com/adrien.carrel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="39" width="52" /></a>
-<a href="https://github.com/AdrienC21/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="39" width="52" /></a>
-<a href="https://leetcode.com/acarrel/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="leetcode" height="39" width="52" /></a>
-<a href="https://scholar.google.com/citations?user=w1_KlvoAAAAJ&hl=fr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" alt="googlescholar" height="39" width="52" /></a>
-<a href="https://www.researchgate.net/profile/Adrien-Carrel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg" alt="researchgate" height="39" width="52" /></a>
-<a href="https://medium.com/@a.carrel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="medium" height="39" width="52" /></a>
-<a href="https://adriencarrel.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg" alt="personalwebsite" height="39" width="52" /></a>
+<a href="https://linkedin.com/in/adrien.carrel/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="39" width="52"/></a>
+<a href="https://www.instagram.com/adrien.carrel" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="39" width="52" /></a>
+<a href="https://github.com/AdrienC21/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="39" width="52" /></a>
+<a href="https://leetcode.com/acarrel/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="leetcode" height="39" width="52" /></a>
+<a href="https://scholar.google.com/citations?user=w1_KlvoAAAAJ&hl=fr" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" alt="googlescholar" height="39" width="52" /></a>
+<a href="https://www.researchgate.net/profile/Adrien-Carrel" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg" alt="researchgate" height="39" width="52" /></a>
+<a href="https://medium.com/@a.carrel" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="medium" height="39" width="52" /></a>
+<a href="https://adriencarrel.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg" alt="personalwebsite" height="39" width="52" /></a>
 </p>
 
 <h3 align="left">Stats:</h3>
