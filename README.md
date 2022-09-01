@@ -27,6 +27,6 @@
 
 ![AdrienC21's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrienC21&hide=prs,issues)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrienC21&layout=compact&hide=html,jupyter)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrienC21&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdrienC21)](https://git.io/streak-stats)
