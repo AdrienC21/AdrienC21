@@ -1,7 +1,5 @@
 <img src="https://github.com/AdrienC21/AdrienC21/blob/main/header.png" width="300" alt="hey">
 
-[![](https://visitcount.itsvg.in/api?id=AdrienC21&icon=7&color=9)](https://visitcount.itsvg.in)
-
 <h3 align="left">💫 About me:</h3>
 
 💻 I am currently studying at Imperial College London (MSc Advanced Computing)
