@@ -1,4 +1,4 @@
-<img src="https://github.com/AdrienC21/AdrienC21/blob/main/header.png" width="300" alt="hey">
+<img src="https://github.com/AdrienC21/AdrienC21/blob/main/header.png" width="600" alt="hey">
 
 <h3 align="left">💫 About me:</h3>
 
@@ -6,14 +6,14 @@
 
 🎓 Before ICL, I’ve been studying at CentraleSupélec, where I specialized in Applied Mathematics and Computer Science (2nd best French engineering school). It is part of the Paris-Saclay University (1st in Mathematics, Shanghai Ranking 2023).
 
-🏫 My research interests are Geometric Deep Learning and diffusion models.
+🏫 My research interests are mainly Geometric Deep Learning and diffusion models.
 
 🔥 And I like dancing :)
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/adrien.carrel/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" fill="white" alt="linkedin" height="39" width="52"/></a>
+<a href="https://linkedin.com/in/adrien.carrel/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="39" width="52"/></a>
 <a href="https://www.instagram.com/adrien.carrel" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="39" width="52" /></a>
 <a href="https://github.com/AdrienC21/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="39" width="52" /></a>
 <a href="https://leetcode.com/acarrel/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="leetcode" height="39" width="52" /></a>
@@ -33,9 +33,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdrienC21)](https://git.io/streak-stats)
 
-<h3 align="left">🔝 Top Contributed Repo:</h3>
+[//]: # (<h3 align="left">🔝 Top Contributed Repo:</h3>)
 
-![](https://github-contributor-stats.vercel.app/api?username=AdrienC21&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[//]: # (![](https://github-contributor-stats.vercel.app/api?username=AdrienC21&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <h3 align="left">💻 Some Tech Stacks:</h3>
 
