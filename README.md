@@ -29,13 +29,9 @@
 
 ![AdrienC21's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrienC21&hide=prs,issues)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrienC21&layout=compact&hide=html,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrienC21&layout=compact&hide=html,jupyter%20notebook)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdrienC21)](https://git.io/streak-stats)
-
-[//]: # (<h3 align="left">🔝 Top Contributed Repo:</h3>)
-
-[//]: # (![](https://github-contributor-stats.vercel.app/api?username=AdrienC21&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdrienC21)
 
 <h3 align="left">💻 Some Tech Stacks:</h3>
 
