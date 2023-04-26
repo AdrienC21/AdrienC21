@@ -20,6 +20,7 @@
 <a href="https://scholar.google.com/citations?user=w1_KlvoAAAAJ&hl=fr" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" alt="googlescholar" height="39" width="52" /></a>
 <a href="https://www.researchgate.net/profile/Adrien-Carrel" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg" alt="researchgate" height="39" width="52" /></a>
 <a href="https://medium.com/@a.carrel" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="medium" height="39" width="52" /></a>
+<a href="https://twitter.com/adriencarrel_" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="39" width="52" /></a>
 <a href="https://adriencarrel.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg" alt="personalwebsite" height="39" width="52" /></a>
 </p>
 
