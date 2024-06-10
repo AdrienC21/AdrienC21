@@ -2,9 +2,9 @@
 
 <h3 align="left">💫 About me:</h3>
 
-💻 I am currently studying at Imperial College London (MSc Advanced Computing)
+💻 Quantitative Researcher at Blockchain.com, previously Quantitative Researcher at Schonfeld / Farringdon Capital
 
-🎓 Before ICL, I’ve been studying at CentraleSupélec, where I specialized in Applied Mathematics and Computer Science (2nd best French engineering school). It is part of the Paris-Saclay University (1st in Mathematics, Shanghai Ranking 2023).
+🎓 I graduated from Imperial College London with a distinction (MSc Advanced Computing) and from CentraleSupélec, the 2nd best French engineering school (MEng Applied Mathematics, Diplôme d'ingénieur), which is part of the Paris-Saclay University (1st university in Mathematics, Shanghai Ranking 2023).
 
 🏫 My research interests are mainly Geometric Deep Learning and diffusion models.
 
